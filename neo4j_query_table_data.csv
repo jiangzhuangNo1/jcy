@@ -1,12 +1,12 @@
 n,r,m
-(:Species {name: 金鲳鱼}),[:具有],(:EntityType {label: 养殖方式})
-(:Species {name: 金鲳鱼}),[:具有],(:EntityType {label: 分布区域})
-(:Species {name: 金鲳鱼}),[:具有],(:EntityType {label: 常见疾病})
-(:Species {name: 金鲳鱼}),[:具有],(:EntityType {label: 栖息环境})
-(:Species {name: 金鲳鱼}),[:具有],(:EntityType {label: 生物学特征})
-(:Species {name: 金鲳鱼}),[:具有],(:EntityType {label: 生长气候})
-(:Species {name: 金鲳鱼}),[:具有],(:EntityType {label: 研究目标名称})
-(:Species {name: 金鲳鱼}),[:具有],(:EntityType {label: 饮食习性})
+(:Species {name: '金鲳鱼'}),[:具有],(:EntityType {label: 养殖方式})
+(:Species {name: '金鲳鱼'}),[:具有],(:EntityType {label: 分布区域})
+(:Species {name: '金鲳鱼'}),[:具有],(:EntityType {label: 常见疾病})
+(:Species {name: '金鲳鱼'}),[:具有],(:EntityType {label: 栖息环境})
+(:Species {name: '金鲳鱼'}),[:具有],(:EntityType {label: 生物学特征})
+(:Species {name: '金鲳鱼'}),[:具有],(:EntityType {label: 生长气候})
+(:Species {name: '金鲳鱼'}),[:具有],(:EntityType {label: 研究目标名称})
+(:Species {name: '金鲳鱼'}),[:具有],(:EntityType {label: 饮食习性})
 (:EntityType {label: 养殖方式}),[:具有],"(:Entity {name: 海水养殖, label: 养殖方式})"
 (:EntityType {label: 养殖方式}),[:具有],"(:Entity {name: 人工饲养, label: 养殖方式})"
 (:EntityType {label: 养殖方式}),[:具有],"(:Entity {name: 网箱养殖, label: 养殖方式})"
